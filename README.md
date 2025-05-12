@@ -30,6 +30,7 @@ We do not guarantee compatibility or support for third-party resources.
 - Logging for important events, such as purchases, item movement, and item creation or removal.
 - Supports player-owned vehicles, licenses, and group systems implemented by frameworks.
 - Fully synchronised, allowing multiple players to [access the same inventory](https://user-images.githubusercontent.com/65407488/230926091-c0033732-d293-48c9-9d62-6f6ae0a8a488.mp4).
+- Items Search
 
 ### Items
 
